@@ -21,3 +21,10 @@ A console-based Bank Management System built using core Java concepts.
 ```bash
 javac src/Main.java
 java src.Main
+```
+## Sample Output
+
+Below is a sample console execution of the Bank Management System showing
+account creation, deposit, withdrawal, balance check, and account listing.
+
+![Bank Management System Output](src/bank-management-system-output.png)
